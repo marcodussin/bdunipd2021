@@ -20,6 +20,9 @@ vostro pc.
 
 4. Guardatevi il video che ho caricato su Moodle e che vi mostra come testare se la vostra installazione funziona
 
+5. Consigliato: installate un editor di testo migliore di blocco note. Se non ne avete uno già installato vi 
+   consiglio Sublime Text https://www.sublimetext.com/3
+
 
 
 Una dritta per gli utenti Mac 🍏 che hanno visto il video qui sopra: nell'ultima versione del sistema operativo (Big Sur) potreste aver selezionato una linea di comando diversa da  `bash`  di nome  `zsh`. Per non complicarvi la vita, il suggerimento è di creare due files nella vostra home, uno è `.bash_profile`  come suggerito nel video, l'altro è  `.zshrc` .
