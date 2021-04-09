@@ -28,7 +28,7 @@ Laboratorio corso di Basi di Dati Unipd 2021
 
 ### Indice:
 
-[Laboratorio 0 del 9 aprile 2021: prerequisiti](/lab0/README.md)
+[Laboratorio 0 del 9 aprile 2021: prerequisiti](lab0/README.md)
 
 
 
