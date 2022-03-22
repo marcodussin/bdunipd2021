@@ -13,8 +13,8 @@ vostro pc.
 3. Qui trovate alcuni video (con un simpatico accento) che vi possono aiutare nell'installazione 
 
 - Setup in Windows https://www.youtube.com/watch?v=OM4aZJW_Ojs
-- Setup in MacOS https://www.youtube.com/watch?v=-BDbOOY9jsc
-  e qui un tutorial per Windows https://www.onlinetutorialspoint.com/mysql/install-mysql-on-windows-10-step-by-step.html
+- Setup in MacOS https://www.youtube.com/watch?v=-BDbOOY9jsc e https://www.youtube.com/watch?v=NflJqdqNN-Q
+- e qui un tutorial per Windows https://www.onlinetutorialspoint.com/mysql/install-mysql-on-windows-10-step-by-step.html
 
   CONSIGLIO: scegliete un nome utente e una password facili da ricordare!
 
